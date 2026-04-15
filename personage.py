@@ -48,3 +48,4 @@ class Personnage:
         if self.points_de_vie <= 0:
             self.en_vie = False
         print(f"{self.nom} est mort.")
+#Ceci est une demonstration apres un Merge
